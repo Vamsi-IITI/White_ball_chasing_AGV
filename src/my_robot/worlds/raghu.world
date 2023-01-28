@@ -2445,8 +2445,8 @@
       <pose>6.59791 0.119094 0 0 -0 0</pose>
     </model>
     <state world_name='default'>
-      <sim_time>257 366000000</sim_time>
-      <real_time>257 905729092</real_time>
+      <sim_time>0</sim_time>
+      <real_time>0</real_time>
       <wall_time>1671873790 929191971</wall_time>
       <iterations>257366</iterations>
       <model name='big_ball'>
